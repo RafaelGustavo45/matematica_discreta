@@ -1,6 +1,7 @@
 # matematica_discreta
 programa que realiza operações da matematica discreta
 como funciona?
+
 ![image](https://github.com/RafaelGustavo45/matematica_discreta/assets/88495051/00a35792-ec84-40ca-afed-0ab1cb089065)
 
 primeiro o programa pede a operação desejada, conforme oque voce der o input numerico o programa segue um caminho
